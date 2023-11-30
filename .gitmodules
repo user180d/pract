@@ -1,0 +1,12 @@
+[submodule "pract1"]
+	path = pract1
+	url = https://github.com/user180d/pract1
+[submodule "pract2"]
+	path = pract2
+	url = https://github.com/user180d/pract2
+[submodule "pract3"]
+	path = pract3
+	url = https://github.com/user180d/pract3
+[submodule "pract4"]
+	path = pract4
+	url = https://github.com/user180d/pract4
