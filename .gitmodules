@@ -10,3 +10,6 @@
 [submodule "pract4"]
 	path = pract4
 	url = https://github.com/user180d/pract4
+[submodule "pract5"]
+	path = pract5
+	url = https://github.com/user180d/pract5
